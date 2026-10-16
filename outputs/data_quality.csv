@@ -1,0 +1,5 @@
+rule,rows,pct_of_raw
+cancellations,19494,1.83
+missing_customer,243007,22.77
+bad_quantity_or_price,25700,2.41
+duplicates,34335,3.22
